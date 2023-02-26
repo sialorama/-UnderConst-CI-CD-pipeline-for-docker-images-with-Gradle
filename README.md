@@ -16,11 +16,11 @@ The current Gradle release is version 8.0.1, released on 17 Feb 2023. The distri
 
 Unzip the distribution zip file in the directory of your choosing, e.g.:
 
-    ```bash
+    ```  
     $ mkdir /opt/gradle  
     $ unzip -d /opt/gradle gradle-8.0.1-bin.zip  
-    $ ls /opt/gradle/gradle-8.0.1  
-    ```
+    $ ls /opt/gradle/gradle-8.0.1
+    ```  
 
 **Step 3.** Configure your system environment: 
 
