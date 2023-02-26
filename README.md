@@ -32,5 +32,5 @@ Configure your PATH environment variable to include the bin directory of the unz
 ### Step 4. Verify your installation:  
 Open a console and run gradle -v to run gradle and display the version, e.g.:
 
-```$ gradle -v```
-[!screenshot]('./imgs/gradle-v.png')
+```$ gradle -v```  
+![screenshot-gradle-version](./imgs/gradle-v.png)
