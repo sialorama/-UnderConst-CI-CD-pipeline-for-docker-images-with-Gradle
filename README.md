@@ -2,8 +2,7 @@
 
 Automatiser l'ensemble du processus en utilisant un pipeline CI/CD avec Github Actions et Docker.  
 
-## Installation de Gradle sous Linux
-[Source](https://gradle.org/install/)
+## A. Installation de Gradle sous Linux [Source](https://gradle.org/install/)
 
 ### Step 1. Download the latest Gradle distribution:  
 
@@ -33,4 +32,8 @@ Configure your PATH environment variable to include the bin directory of the unz
 Open a console and run gradle -v to run gradle and display the version, e.g.:
 
 ```$ gradle -v```  
+
 ![screenshot-gradle-version](./imgs/gradle-v.png)
+
+
+## B. Building and testing Java with Gradle [Source] (https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle)
