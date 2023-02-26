@@ -38,5 +38,5 @@ Open a console and run gradle -v to run gradle and display the version, e.g.:
 
 
 ## B. Building and testing Java with Gradle  
-[Source](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle)
-
+[Source En](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle)
+[Source Fr](https://docs.github.com/fr/actions/automating-builds-and-tests/building-and-testing-java-with-gradle)
