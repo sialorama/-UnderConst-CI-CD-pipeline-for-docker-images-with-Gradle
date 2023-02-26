@@ -3,14 +3,14 @@
 Automatiser l'ensemble du processus en utilisant un pipeline CI/CD avec Github Actions et Docker.  
 
 ## Installation de Gradle sous Linux
-[Source]('https://gradle.org/install/')
+[Source](https://gradle.org/install/)
 
 **Step 1.** Download the latest Gradle distribution:  
 
 The current Gradle release is version 8.0.1, released on 17 Feb 2023. The distribution zip file comes in two flavors:
 
-[Binary-only]('https://gradle.org/next-steps/?version=8.0.1&format=bin')
-[Complete]('https://gradle.org/next-steps/?version=8.0.1&format=all'), with docs and sources
+[Binary-only](https://gradle.org/next-steps/?version=8.0.1&format=bin)
+[Complete](https://gradle.org/next-steps/?version=8.0.1&format=all), with docs and sources
 
 **Step 2.** Unpack the distribution: 
 
